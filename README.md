@@ -6,8 +6,8 @@
 
 - 🌟"I'ma Star how could I not shine?" - Kanye West 🐱‍👤
 - 💻 Junior Dev.
-- 📚 Software Engineer Student
-- 🏫 IEEE member
+- 📚 Software Engineer Student.
+- 🏫 IEEE member.
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
