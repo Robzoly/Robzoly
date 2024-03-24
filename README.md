@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Robzoly">Robzoly ✌</a<</h1>
 </div>
 
-##Abot me
+## About me
 
 - 🌟"I'ma Star how could I not shine?" - Kanye West 🐱‍👤
 - 💻 Junior Dev.
