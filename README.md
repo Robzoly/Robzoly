@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Robzoly">Robzoly ✌</a<</h1>
   
 </div>
-<img src="https://imgur.com/DNwLnba">
+<img src="https://i.imgur.com/DNwLnba.jpeg">
   
 ## About me
 
